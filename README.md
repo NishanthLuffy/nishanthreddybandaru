@@ -103,11 +103,11 @@ Most recently, I designed a **SWF Threshold event** in an event-sourced PO lifec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Nishanth's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishanthLuffy&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Nishanth's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthLuffy&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 ---
